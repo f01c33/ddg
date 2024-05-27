@@ -2,11 +2,13 @@ package provider
 
 import (
 	"fmt"
-	"golang.org/x/sync/errgroup"
 	"math"
 	"net/url"
 	"strconv"
 	"sync"
+
+	"golang.org/x/sync/errgroup"
+
 	"websearch/helpers"
 	"websearch/provider/errs"
 )

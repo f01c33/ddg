@@ -7,7 +7,6 @@ import (
 	"strings"
 	"syscall"
 	"time"
-
 	"websearch"
 	"websearch/provider"
 )

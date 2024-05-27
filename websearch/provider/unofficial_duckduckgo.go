@@ -1,8 +1,10 @@
 package provider
 
 import (
-	"github.com/PuerkitoBio/goquery"
 	"net/url"
+
+	"github.com/PuerkitoBio/goquery"
+
 	"websearch/helpers"
 )
 
